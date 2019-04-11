@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["delete","Creates route handler with `DELETE` method guard."],["get","Creates route handler with `GET` method guard."],["post","Creates route handler with `POST` method guard."],["put","Creates route handler with `PUT` method guard."]]});
